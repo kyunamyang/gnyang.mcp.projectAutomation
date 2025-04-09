@@ -1,0 +1,1 @@
+# gnyang.mcp.projectAutomation
